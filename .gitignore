@@ -1,0 +1,31 @@
+# Build and system files
+*.exe
+*.obj
+*.pch
+*.pdb
+*.idb
+*.dll
+*.lib
+*.suo
+*.user
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.ipch
+*.log
+
+# Visual Studio folders
+.vs/
+Debug/
+Release/
+x64/
+ipch/
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# Environment files
+*.env
